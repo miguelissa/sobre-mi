@@ -1,0 +1,20 @@
+body{
+  /* especifica el tipo de letra */
+  font-family: 'Mukta', sans-serif;
+  /* color del fondo */
+  background-color: #1b1b32;
+  /* color de las letras */
+  color: #f5f6f7;
+  /* ancho que ocupa */
+  width: 80%;
+  /* color del fondo */
+  /* estos dos margenes en auto se usa para centrar todo */
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  /* es el maximo de anchp que puede ocupar, se usa por si se abre la pagina en una pantalla grande */
+  max-width: 500px;
+  /* alinea el texto al centro */
+  text-align:center;
+}
+
