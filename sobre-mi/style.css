@@ -17,4 +17,9 @@ body{
   /* alinea el texto al centro */
   text-align:center;
 }
+video{
+  height: 20rem;
+  width: 20rem;
+
+}
 
